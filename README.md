@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/lostintheramen">
-		<img src="assets/icon.png" alt="icon" width="100" height="100">
+		<img src="assets/lostintheramen.png" alt="icon" width="100" height="100">
 	</a>
 	<p align="center">
 		<samp>
